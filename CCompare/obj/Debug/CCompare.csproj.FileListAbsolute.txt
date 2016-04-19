@@ -1,0 +1,7 @@
+C:\Users\mgibeau\git\ContrastCompare\CCompare\bin\Debug\CCompare.exe
+C:\Users\mgibeau\git\ContrastCompare\CCompare\bin\Debug\CCompare.pdb
+C:\Users\mgibeau\git\ContrastCompare\CCompare\bin\Debug\ContrastCompare.dll
+C:\Users\mgibeau\git\ContrastCompare\CCompare\bin\Debug\ContrastCompare.pdb
+C:\Users\mgibeau\git\ContrastCompare\CCompare\obj\Debug\CCompare.csprojResolveAssemblyReference.cache
+C:\Users\mgibeau\git\ContrastCompare\CCompare\obj\Debug\CCompare.exe
+C:\Users\mgibeau\git\ContrastCompare\CCompare\obj\Debug\CCompare.pdb

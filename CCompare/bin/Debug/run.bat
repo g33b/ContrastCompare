@@ -1,0 +1,1 @@
+CCompare TechCrunchcontinentalUSA.csv TechCrunchcontinentalUSANew.csv out.txt

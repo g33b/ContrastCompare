@@ -1,0 +1,1 @@
+2016-04-19--Error pruning rows. Check config.ini all columns should match input:   at System.Data.DataRow.GetDataColumn(String columnName)   at System.Data.DataRow.get_Item(String columnName)   at ContrastCompare.CompareHelper.Compare(String oldFile, String newFile, String outFile) in C:\Users\mgibeau\git\ContrastCompare\ContrastCompare\CompareHelper.cs:line 48
